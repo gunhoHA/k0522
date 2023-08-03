@@ -8,7 +8,7 @@
 <style type="text/css">@import url(common.css)</style>
 </head>
 <body>
-<h2>사칙연산</h2>
+<h2>사칙연산</h2> 테스트
 <form action="cal_result.jsp" method="post">
 	첫번째수 : <input type="number" name="num1">
 	두번째수 : <input type="number" name="num2">
